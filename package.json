@@ -1,0 +1,23 @@
+{
+  "name": "webtesting-i-challenge",
+  "version": "1.0.0",
+  "description": "web testing using Jest: Enhance Item",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTrabin/webtesting-i-challenge.git"
+  },
+  "author": "Michael \"Trabin\" McLeod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheTrabin/webtesting-i-challenge/issues"
+  },
+  "homepage": "https://github.com/TheTrabin/webtesting-i-challenge#readme"
+}
